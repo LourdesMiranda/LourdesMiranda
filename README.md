@@ -63,11 +63,11 @@ const lourdes = {
 
 ## 🌱 Actualmente...
 
-- 🛒 Trabajas como Maquetadora Ecommerce en Iskaypet
-- 🎓 Estudias Full Stack en 4Geeks Academy
-- 💖 Eres una Frontend lover
-- 🌱 Profundizando en **React**
-- 💬 Siempre dispuesta a hablar de **CSS, UI y buenas prácticas**
+- 🛒 Trabajando como Maquetadora Ecommerce en Iskaypet
+- 🎓 Estuandiando Full-Stack Developers en 4Geeks Academy
+- 💖 Soy una Frontend lover
+- 🌱 Profundizando en React
+- 💬 Siempre dispuesta a hablar de CSS, UI y buenas prácticas
 - ✨ Convencida de que el diseño y el código van de la mano
 
 ---
