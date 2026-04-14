@@ -14,8 +14,6 @@
 
 <br/>
 
-<div align="center">
-
 ```javascript
 const lourdes = {
   location: "Madrid 🇪🇸",
@@ -26,8 +24,6 @@ const lourdes = {
   funFact: "Debuggeo mejor con música alta 🎵"
 };
 ```
-
-</div>
 
 ---
 
@@ -51,12 +47,7 @@ const lourdes = {
 ## 📊 Mis stats (en progreso, como toda buena dev 👀)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LourdesMiranda&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourdesMiranda&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LourdesMiranda&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LourdesMiranda&theme=radical&no-frame=true&margin-w=10&row=1" />
 </div>
 
 ---
@@ -64,7 +55,7 @@ const lourdes = {
 ## 🌱 Actualmente...
 
 - 🛒 Trabajando como Maquetadora Ecommerce en Iskaypet
-- 🎓 Estuandiando Full-Stack Developers en 4Geeks Academy
+- 🎓 Estudiando Full-Stack Developers en 4Geeks Academy
 - 💖 Soy una Frontend lover
 - 🌱 Profundizando en React
 - 💬 Siempre dispuesta a hablar de CSS, UI y buenas prácticas
@@ -85,9 +76,7 @@ const lourdes = {
 
 <div align="center">
 
-```
 ✦ gracias por pasarte por aquí ✦
-```
 
 <img src="https://komarev.com/ghpvc/?username=LourdesMiranda&color=ff6b9d&style=flat-square&label=visitas" />
 
