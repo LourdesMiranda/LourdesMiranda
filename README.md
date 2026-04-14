@@ -47,7 +47,7 @@ const lourdes = {
 ## 📊 Mis stats (en progreso, como toda buena dev 👀)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LourdesMiranda&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://streak-stats.demolab.com/?user=LourdesMiranda&theme=radical&hide_border=true" />
 </div>
 
 ---
