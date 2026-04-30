@@ -19,7 +19,7 @@ const lourdes = {
   location: "Madrid 🇪🇸",
   role: "Maquetadora Ecommerce 🛒",
   company: "Iskaypet 🐾",
-  currentlyLearning: ["React", "TypeScript", "más café ☕"],
+  currentlyLearning: ["React", "JavaScript", "más café ☕"],
   askMeAbout: ["HTML", "CSS", "JavaScript", "React"],
   funFact: "Debuggeo mejor con música alta 🎵"
 };
