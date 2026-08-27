@@ -70,13 +70,14 @@ const lourdes = {
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribuciones
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LourdesMiranda&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourdesMiranda&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=LourdesMiranda&theme=radical&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LourdesMiranda/LourdesMiranda/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LourdesMiranda/LourdesMiranda/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de la serpiente comiéndose el gráfico de contribuciones" src="https://raw.githubusercontent.com/LourdesMiranda/LourdesMiranda/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 </div>
 
 ---
