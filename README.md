@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e94584&height=220&section=header&text=Lourdes%20Miranda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%C2%B7%20Backend%20%26%20Frontend&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B9D&center=true&vCenter=true&width=750&lines=Backend+%2B+Frontend+%7C+APIs+%2B+UI+que+de+verdad+funcionan;Node.js+%C2%B7+Python+%C2%B7+Flask+%C2%B7+SQL;React+%C2%B7+JavaScript+%C2%B7+SCSS;Ampliando+hacia+backend+%26+arquitectura;Based+in+Madrid+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+### Software Engineer — construyo de punta a punta, del servidor a la pantalla.
 
 </div>
 
 <br/>
 
-Vengo del frontend y la maquetación en plataformas **e-commerce de gran escala**, y desde ahí estoy ampliando mi rol hacia backend y arquitectura: lógica de servidor, APIs y bases de datos, sin perder el criterio de producto y UI que ya tenía.
+Diseño lógica de servidor, APIs y bases de datos que conectan con interfaces bien pensadas. Empecé maquetando e-commerce a gran escala — hoy llevo ese mismo criterio de producto hacia el backend y la arquitectura.
 
 ```javascript
 const lourdes = {
@@ -27,8 +27,10 @@ const lourdes = {
 
 **Backend & Lógica**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,flask,mysql,postgres" />
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20Rel.%20DBs-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1a2e?style=for-the-badge)
 ![Controllers/Services](https://img.shields.io/badge/Controllers%20%2F%20Services%20Architecture-1a1a2e?style=for-the-badge)
 ![Salesforce SFRA](https://img.shields.io/badge/Salesforce%20B2C%20Commerce%20(SFRA)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -37,16 +39,22 @@ const lourdes = {
 
 **Frontend & UI/UX**
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,sass" />
-
+![JavaScript](https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS/SASS](https://img.shields.io/badge/SCSS%20%2F%20SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-e94584?style=for-the-badge)
 
 <br/>
 
 **Herramientas & Flujo**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack,npm" />
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted%20Development-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
@@ -62,17 +70,6 @@ const lourdes = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LourdesMiranda&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourdesMiranda&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=LourdesMiranda&theme=radical&hide_border=true" />
-</div>
-
----
-
 ## 📬 Contacto
 
 <div align="center">
@@ -80,6 +77,8 @@ const lourdes = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourdes-miranda-moreno)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourdescoronela@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LourdesMiranda)
+
+📧 lourdescoronela@gmail.com
 
 </div>
 
