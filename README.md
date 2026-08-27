@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e94584&height=220&section=header&text=Lourdes%20Miranda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%C2%B7%20Backend%20%26%20Frontend&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-### Software Engineer — construyo de punta a punta, del servidor a la pantalla.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer" alt="Typing SVG" />
 
 </div>
 
@@ -30,7 +30,7 @@ const lourdes = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20Rel.%20DBs-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-1a1a2e?style=for-the-badge)
 ![Controllers/Services](https://img.shields.io/badge/Controllers%20%2F%20Services%20Architecture-1a1a2e?style=for-the-badge)
 ![Salesforce SFRA](https://img.shields.io/badge/Salesforce%20B2C%20Commerce%20(SFRA)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -70,15 +70,24 @@ const lourdes = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LourdesMiranda&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LourdesMiranda&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=LourdesMiranda&theme=radical&hide_border=true" />
+</div>
+
+---
+
 ## 📬 Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourdes-miranda-moreno)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourdescoronela@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lourdescoronela@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LourdesMiranda)
-
-📧 lourdescoronela@gmail.com
 
 </div>
 
