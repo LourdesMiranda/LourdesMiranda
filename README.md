@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:e94584&height=220&section=header&text=Lourdes%20Miranda&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%C2%B7%20Backend%20%26%20Frontend&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+# Lourdes Miranda
+
+### Full Stack Software Engineer · Backend & Frontend
 
 </div>
 
@@ -89,8 +91,6 @@ const lourdes = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LourdesMiranda)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94584,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=LourdesMiranda&color=e94584&style=flat-square&label=visitas" />
