@@ -55,7 +55,6 @@ const lourdes = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted%20Development-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
